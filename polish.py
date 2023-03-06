@@ -4,7 +4,7 @@ from cai.chatgpt import ChatGPT
 import shutil
 
 if __name__ == "__main__":   
-    openai.api_key = "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"
+    openai.api_key = "sk-**"
     
     argparser = argparse.ArgumentParser()
     argparser.add_argument("--lang", type=str, default="English", help="the output language")

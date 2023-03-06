@@ -7,10 +7,13 @@ This code is a simple polishing tool for personal use. Automatically read the in
 
 Python 3.7+
 
+MacOS
+
 You can install other software packages with the following command:
 
 ```
-$ pip install openai sqlite3
+$ pip install openai 
+$ brew install sqlite3
 ```
 
 ## Usage
